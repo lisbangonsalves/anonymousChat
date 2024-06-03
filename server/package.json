@@ -4,7 +4,8 @@
     "description": "Backend for the chat app",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node index.js",
+      "build": "echo 'No build steps required for the backend'"
     },
     "dependencies": {
       "cors": "^2.8.5",
